@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159560780185",
+    "project_id": "proyecto-6ccc2",
+    "storage_bucket": "proyecto-6ccc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159560780185:android:6faab68c1487386059eb08",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159560780185-3bdghdjipiabkle4ed3gkkpu3r5ocd3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBS5QRDS3shANNCWV6tmkRp-9XwmW0eYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159560780185-3bdghdjipiabkle4ed3gkkpu3r5ocd3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
